@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.container {
+    padding: 40px 0;
+    margin-top: 50px;
+}
+
+.text {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    text-align: justify;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+@media (max-width: 768px) {
+
+    .text,
+    .result-data {
+        margin: 0 10px;
+    }
+}

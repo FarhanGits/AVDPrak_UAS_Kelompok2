@@ -1,0 +1,82 @@
+Timestamp,Nama,Jenis kelamin,Usia,Jenis makanan yang paling Anda sukai?,Apakah Anda memiliki alergi makanan? (Jika iya sebutkan),Apakah Anda sering melewatkan sarapan?,Berapa kali Anda makan dalam sehari? (Contoh:4),Apakah Anda memiliki pola makan yang teratur?,Seberapa penting bagi Anda untuk memilih makanan?,Seberapa sering Anda berolahraga dalam seminggu? (Contoh:4)
+28/09/2023 13:56:57,Rizfi Ferdiansyah ,Laki - laki,20,Makanan sehat,Tidak,Tidak,3,Iya,Penting,1
+28/09/2023 15:11:05,Praja Muhammad Purnayuda,Laki - laki,20,Makanan cepat saji,Tidak,Iya,2,Tidak,Kurang penting,0
+28/09/2023 15:11:46,Thomas Gianto,Laki - laki,18,Makanan sehat,Tidak,Tidak,4,Iya,Penting,2
+28/09/2023 15:12:21,Abrar Ikrama Putra,Laki - laki,20,Makanan cepat saji,Tidak,Iya,3,Tidak,Sangat penting,1
+29/09/2023 9:54:07,Adit ,Laki - laki,20,Makanan yang ada,Tidak,Iya,2,Iya,Penting,2
+29/09/2023 17:03:07,Enzie,Laki - laki,19,makanan pedas,Tidak,Iya,2,Tidak,Kurang penting,0
+29/09/2023 18:28:49,Cakra,Laki - laki,21,Makanan sehat,Udang,Iya,2,Tidak,Penting,1
+29/09/2023 21:42:31,Farhan,Laki - laki,20,Makanan cepat saji,Tidak,Tidak,3,Tidak,Penting,0
+02/10/2023 23:26:46,Figo,Laki - laki,21,Makanan sehat,Tidak,Iya,2,Iya,Penting,1
+04/10/2023 9:51:13,Adji Barra,Laki - laki,21,Makanan cepat saji,Tidak,Iya,2,Tidak,Penting,1
+04/10/2023 10:40:37,Airlangga,Laki - laki,20,Makanan sehat,Tidak,Iya,3,Tidak,Sangat penting,1
+04/10/2023 13:25:06,Arya Maulana,Laki - laki,20,Makanan sehat,Tidak,Tidak,5,Tidak,Penting,2
+04/10/2023 13:30:41,Maulana ,Laki - laki,19,Makanan sehat,Tidak,Tidak,3,Iya,Sangat penting,1
+04/10/2023 13:45:46,Wangi ,Perempuan,20,Makanan cepat saji,Tidak,Iya,2,Tidak,Penting,1
+04/10/2023 13:58:11,Adisha,Perempuan,20,Dua duanya,Seafood tertentu,Iya,2,Tidak,Sangat penting,1
+04/10/2023 14:44:32,Rafli Khrisna Dhiwanto,Laki - laki,18,Makanan sehat,Tidak,Iya,3,Tidak,Kurang penting,1
+04/10/2023 14:52:55,Anthea,Perempuan,19,Makanan sehat,Tidak,Tidak,4,Iya,Penting,5
+04/10/2023 15:09:38,wahioe,Laki - laki,21,Makanan sehat,Tidak,Iya,2,Iya,Kurang penting,3
+04/10/2023 15:14:29,Erma ,Perempuan,18,Makanan sehat,Tidak,Iya,3,Iya,Sangat penting,2
+04/10/2023 15:40:56,Yoel,Laki - laki,20,Makanan sehat,Tidak,Iya,2,Tidak,Sangat penting,2
+04/10/2023 18:36:59,Zidan,Laki - laki,19,Makanan sehat,Tidak,Iya,2,Tidak,Penting,1
+04/10/2023 18:48:25,Riska,Perempuan,20,Makanan sehat,"Ayam, telur",Iya,3,Tidak,Sangat penting,3
+04/10/2023 18:54:29,R,Perempuan,20,Makanan cepat saji,Tidak,Tidak,3,Tidak,Penting,3
+04/10/2023 19:04:27,Abram,Laki - laki,20,Makanan sehat,seafood,Iya,2,Tidak,Sangat penting,1
+05/10/2023 8:26:24,Nada Ananda Abdee,Perempuan,18,Makanan sehat,Tidak,Iya,2,Tidak,Sangat penting,2
+06/10/2023 8:46:50,Coki,Laki - laki,20,Makanan cepat saji,Tidak,Iya,3,Tidak,Penting,1
+06/10/2023 8:54:05,eka,Perempuan,18,Makanan cepat saji,Tidak,Tidak,3,Iya,Kurang penting,2
+06/10/2023 8:59:03,hasna,Perempuan,20,Makanan cepat saji,Tidak,Tidak,3,Iya,Penting,2
+06/10/2023 9:06:55,Rishad,Laki - laki,17,Makanan sehat,Tidak,Tidak,3,Iya,Sangat penting,2
+06/10/2023 10:03:04,Arya,Perempuan,21,Makanan cepat saji,Tidak,Iya,2,Tidak,Penting,2
+06/10/2023 14:07:52,PATRICIA,Perempuan,20,Makanan sehat,Tidak,Iya,2,Tidak,Penting,2
+06/10/2023 14:28:08,ridzeu,Laki - laki,19,Makanan cepat saji,Tidak,Iya,2,Tidak,Penting,1
+06/10/2023 18:13:23,Raihana Nafisah,Perempuan,20,Makanan sehat,Tidak,Iya,2,Tidak,Penting,2
+06/10/2023 18:14:46,Putri Rahma N.S.,Perempuan,21,Makanan sehat,Tidak,Iya,1,Tidak,Penting,6
+06/10/2023 18:17:19,Lutfiyyah,Perempuan,20,Makanan sehat,Tidak,Iya,2,Tidak,Sangat penting,0
+06/10/2023 18:23:18,Wisna,Perempuan,21,Makanan sehat,Tidak,Tidak,3,Iya,Sangat penting,1
+06/10/2023 18:27:07,Din,Perempuan,20,Makanan cepat saji,Alergi ayam,Iya,2,Tidak,Sangat penting,2
+06/10/2023 18:27:31,Nurul Nurramdani,Perempuan,20,Makanan sehat,Tidak,Tidak,3,Iya,Sangat penting,1
+06/10/2023 18:45:40,Raihan Rafi Rabbani ,Laki - laki,20,Murah enak banyak,Tidak,Iya,2,Tidak,Penting,0
+06/10/2023 18:49:23,Rafli Pandu Hernanto,Laki - laki,21,Makanan cepat saji,Tidak,Tidak,3,Iya,Sangat penting,2
+06/10/2023 18:50:02,Zaqylla Sonya Anandya,Perempuan,21,Makanan sehat,Tidak,Iya,2,Tidak,Sangat penting,0
+06/10/2023 18:55:35,Hafsya Zuanisa R.S,Perempuan,20,Makanan cepat saji,Tidak,Iya,1,Tidak,Sangat penting,3
+06/10/2023 19:20:35,Ghezali Tristan Aqmal,Laki - laki,20,Makanan sehat,Tidak,Iya,3,Iya,Sangat penting,2
+06/10/2023 19:27:29,Zuhrotin Cahyani,Perempuan,21,Makanan sehat,Tidak,Iya,1,Tidak,Sangat penting,1
+06/10/2023 19:36:07,M. Thufail Alwannabil Samas ,Laki - laki,19,Makanan ringan,Tidak,Tidak,2,Tidak,Sangat penting,0
+06/10/2023 19:40:40,Intan,Perempuan,20,Makanan sehat,Tidak,Iya,2,Tidak,Sangat penting,1
+06/10/2023 19:45:32,Amanda Nadia Adjani ,Perempuan,20,Makanan murah,Seafood,Iya,2,Tidak,Kurang penting,1
+06/10/2023 19:50:03,Kylea T. Anafda,Perempuan,19,Tidak ada jenis tertentu,Tidak,Tidak,2,Tidak,Kurang penting,0
+06/10/2023 21:10:34,Ambar Salsabilla Putri,Perempuan,21,Makanan sehat,Tidak,Tidak,2,Iya,Penting,1
+06/10/2023 21:49:18,Firnanda Asdamayanti Cahyani ,Perempuan,20,Makanan cepat saji,Tidak,Iya,2,Tidak,Kurang penting,1
+07/10/2023 11:42:18,Najwa Almira,Perempuan,18,Makanan cepat saji,Udang,Iya,2,Iya,Kurang penting,4
+07/10/2023 13:54:51,gupi,Laki - laki,18,tempe goreng,Tidak,Tidak,7,Tidak,Kurang penting,6
+07/10/2023 19:58:02,Yericho Giosandro A,Laki - laki,20,Makanan sehat,Tidak,Iya,3,Tidak,Penting,2
+07/10/2023 21:18:37,Cahyaning Rukmi Hanukarti,Perempuan,21,Makanan warteg,Tidak,Iya,2,Tidak,Sangat penting,2
+07/10/2023 22:05:36,Fernando Perdana Setiawan,Laki - laki,20,Makanan sehat,Tidak,Tidak,3,Iya,Sangat penting,5
+09/10/2023 10:39:35,Nasywa,Perempuan,20,Makanan cepat saji,Tidak,Tidak,3,Tidak,Penting,0
+10/10/2023 7:20:23,Wira,Laki - laki,19,Makanan cepat saji,Tidak,Iya,3,Tidak,Sangat penting,1
+10/10/2023 9:35:25,Janjang Nurcahyo,Laki - laki,20,"Periodik, kadang makanan sehat kadang cepat saji",Kerang ijo,Iya,2,Iya,Penting,5
+10/10/2023 10:08:51,Cinta,Perempuan,20,Makanan cepat saji,Seafood,Tidak,3,Tidak,Sangat penting,0
+11/10/2023 7:53:26,Rizky,Laki - laki,20,Makanan cepat saji,Tidak,Iya,2,Tidak,Kurang penting,1
+11/10/2023 7:54:25,Budi,Laki - laki,18,Makanan cepat saji,Tidak,Tidak,3,Iya,Penting,3
+11/10/2023 17:59:13,Fawwaz Fikruzaky Saputro,Laki - laki,21,Makanan sehat,Tidak,Iya,2,Tidak,Penting,1
+11/10/2023 18:08:39,Nathanael Erlando Putra,Laki - laki,19,Makanan cepat saji,Tidak,Tidak,3,Tidak,Kurang penting,1
+11/10/2023 18:24:24,Christian Abraham Putra,Laki - laki,20,Makanan sehat,Udang,Iya,2,Tidak,Kurang penting,0
+11/10/2023 19:00:19,Naufal,Laki - laki,21,Makanan sehat,durian musang king,Iya,3,Tidak,Sangat penting,4
+11/10/2023 19:46:39,Alfariza,Laki - laki,20,Makanan sehat,Tidak,Iya,3,Tidak,Penting,1
+11/10/2023 20:16:56,Ahmad Rayhan,Laki - laki,21,Makanan halal,Tidak,Iya,3,Tidak,Sangat penting,1
+11/10/2023 21:31:10,Asraf,Laki - laki,20,Makanan sehat,Tidak,Iya,2,Tidak,Kurang penting,3
+12/10/2023 8:29:35,Rima,Perempuan,19,Makanan sehat,Tidak,Tidak,4,Iya,Sangat penting,1
+12/10/2023 8:32:26,Abdi Gunawan,Laki - laki,21,Makanan cepat saji,Tidak,Iya,1,Tidak,Kurang penting,0
+12/10/2023 8:33:25,Ilham Ainul Yaqin,Laki - laki,20,Makanan sehat,Tidak,Tidak,5,Iya,Sangat penting,2
+12/10/2023 8:34:01,Satria Septiaji,Laki - laki,18,Makanan cepat saji,Udang,Tidak,3,Tidak,Penting,0
+12/10/2023 8:35:03,Richard Kanuwijaya,Laki - laki,21,Makanan sehat,Tidak,Iya,3,Iya,Kurang penting,2
+12/10/2023 8:36:47,Muhammad Faqih,Laki - laki,21,Makanan cepat saji,Tidak,Iya,4,Tidak,Tidak penting,0
+12/10/2023 8:38:14,Didi,Laki - laki,22,Makanan cepat saji,Tidak,Iya,3,Iya,Penting,2
+12/10/2023 8:39:00,Baiq Putri,Perempuan,20,Makanan cepat saji,Seafood,Tidak,3,Tidak,Penting,0
+12/10/2023 8:40:14,Iqbal,Laki - laki,22,Makanan cepat saji,Tidak,Iya,2,Tidak,Penting,1
+12/10/2023 8:40:46,Muhammad Naufal,Laki - laki,21,Makanan cepat saji,Tidak,Tidak,4,Iya,Sangat penting,2
+12/10/2023 8:41:41,Kemal Fahrezi,Laki - laki,19,Makanan cepat saji,Tidak,Iya,3,Tidak,Kurang penting,0
+12/10/2023 8:42:21,Novia,Perempuan,22,Makanan sehat,Tidak,Tidak,3,Iya,Penting,1
+12/10/2023 8:42:50,Sarah,Perempuan,20,Makanan cepat saji,Tidak,Tidak,4,Iya,Penting,0

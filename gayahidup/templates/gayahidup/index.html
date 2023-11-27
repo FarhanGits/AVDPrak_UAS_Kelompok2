@@ -1,0 +1,105 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Form Kesehatan Makanan dan Olahraga Mahasiswa</title>
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="{% static "style.css" %}" />
+  </head>
+  <body style="background-color: white">
+    <section class="container">
+      <h1
+        style="
+          text-align: center;
+          border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+          padding: 15px 10px 15px 10px;
+          margin-bottom: 35px;
+        "
+      >
+        FORM KESEHATAN MAHASISWA
+      </h1>
+      <form id="myForm" method="POST">
+        {% csrf_token %}
+        <div class="form-group">
+          <label for="inputName">Full Name:</label>
+          <input
+            type="text"
+            class="form-control"
+            id="inputName"
+            name="name"
+            placeholder="Enter Full Name"
+            required
+          />
+        </div>
+
+        <div class="form-group">
+          <label for="usia">Usia</label>
+          <input
+            type="number"
+            class="form-control"
+            id="usia"
+            name="usia"
+            min="1"
+            placeholder="Usia"
+            required
+          />
+        </div>
+
+        <div class="form-group">
+          <label for="Gender">Gender</label>
+          <select class="form-control" id="Gender" name="jeniskelamin" required>
+            <option value="lakilaki">Laki-laki</option>
+            <option value="perempuan">Perempuan</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="jumlahMakan">Berapakali Anda Makan dalam Sehari?</label>
+          <input
+            type="number"
+            class="form-control"
+            id="jumlahMakan"
+            name="jumlahmakan"
+            min="1"
+            placeholder="Jumlah Makan Sehari"
+            required
+          />
+        </div>
+
+        <div class="form-group">
+          <label for="sarapan">Apakah Anda Sering Melewatkan Sarapan?</label>
+          <select class="form-control" id="sarapan" name="sarapan" required>
+            <option value="Iya">Iya</option>
+            <option value="Tidak">Tidak</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="olahraga">Berapakali Anda Olahraga Dalam Seminggu?</label>
+          <input
+            type="number"
+            class="form-control"
+            id="olahraga"
+            name="olahraga"
+            min="0"
+            placeholder="Total Olahraga Seminggu"
+            required
+          />
+        </div>
+
+        <div class="text-center">
+          <button type="submit" class="btn btn-primary">KIRIM</button>
+        </div>
+      </form>
+    </section>
+  </body>
+</html>

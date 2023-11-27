@@ -1,0 +1,27 @@
+form {
+    padding: 50px;
+}
+
+.form-group {
+    margin: 0px 200px 25px 200px;
+}
+
+.form-control {
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.btn {
+    margin: 20px 0px 40px 0px;
+    padding: 10px 30px 10px 30px;
+    font-weight: bold;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+    transition: 0.5s;
+}
+
+.btn:hover {
+    transform: translate(-2px, -2px);
+    background-color: green;
+    border-color: rgba(0, 0, 0, 0.2);
+}
