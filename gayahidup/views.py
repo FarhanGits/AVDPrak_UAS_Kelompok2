@@ -57,7 +57,12 @@ def index(request):
             "gayahidup/result.html",
             {
                 "hasil_klasifikasi": klasifikasi,
-                #  "jenis_klasifikasi": jenis_klasifikasi
+                "nama": nama,
+                "usia": usia,
+                "jeniskelamin": jeniskelamin,
+                "jumlahmakan": jumlahmakan,
+                "sarapan": sarapan,
+                "olahraga": olahraga,
             }
             # hasil_klasifikasi="{}".format(klasifikasi),
             # jenis_klasifikasi="{}".format(jenis_klasifikasi),

@@ -6,22 +6,33 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
     <link rel="stylesheet" href="{% static "result.css" %}">
-    <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
-      rel="stylesheet"
-      integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
-      crossorigin="anonymous"
-    />
   </head>
   <body>
     <div class="container">
-      <div class="text">
-        <h2 style="text-align: center">TERIMAKASIH ATAS JAWABAN ANDA</h2>
-        <br />
-        <p style="text-align: center">
-          Hasil dari jawaban yang telah kamu input menyatakan bahwa kamu
-          termasuk ke dalam <strong>Kluster {{hasil_klasifikasi}}</strong>
-        </p>
+      <div class="box">
+        <div class="text">
+          <h1 style="text-align: center">
+            TERIMAKASIH ATAS <br />
+            JAWABAN ANDA
+          </h1>
+          <br />
+          <p style="text-align: center">
+            Hasil dari jawaban yang telah kamu input menyatakan bahwa kamu
+            termasuk ke dalam <strong>Kluster {{hasil_klasifikasi}}</strong>
+          </p>
+        </div>
+      </div>
+      <div class="box">
+        <div class="result-data">
+          <h2 style="text-align: center">SUMMARY</h2>
+          <br />
+          <p><strong>Nama Lengkap:</strong> {{nama}}</p>
+          <p><strong>Umur:</strong> ${usia}</p>
+          <p><strong>Jenis Kelamin:</strong> {{jeniskelamin}}</p>
+          <p><strong>Jumlah makan dalam Sehari:</strong> {{jumlahmakan}}</p>
+          <p><strong>Sering Melewatkan Sarapan:</strong> {{sarapan}}</p>
+          <p><strong>Jumlah Olahraga dalam Seminggu:</strong> {{olahraga}}</p>
+        </div>
       </div>
     </div>
   </body>
