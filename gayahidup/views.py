@@ -43,20 +43,21 @@ def index(request):
 
         klasifikasi = rfmodel.predict(input_data_frame)
 
-        # if klasifikasi == 0:
-        #     jenis_klasifikasi = "Kingpling"
-        # elif klasifikasi == 1:
-        #     jenis_klasifikasi = "Hampir Kingpling"
-        # elif klasifikasi == 2:
-        #     jenis_klasifikasi = "Tidak Kingpling"
-        # else:
-        #     jenis_klasifikasi = "Bebas Kingpling"
+        if klasifikasi == 0:
+            jenis_klasifikasi = "Sangat Sehat"
+        elif klasifikasi == 1:
+            jenis_klasifikasi = "Sehat"
+        elif klasifikasi == 2:
+            jenis_klasifikasi = "Kurang Sehat"
+        else:
+            jenis_klasifikasi = "Tidak Sehat"
 
         return render(
             request,
             "gayahidup/result.html",
             {
                 "hasil_klasifikasi": klasifikasi,
+                "jenis_klasifikasi": jenis_klasifikasi,
                 "nama": nama,
                 "usia": usia,
                 "jeniskelamin": jeniskelamin,
